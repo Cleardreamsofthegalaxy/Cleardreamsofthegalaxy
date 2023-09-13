@@ -5,3 +5,4 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
